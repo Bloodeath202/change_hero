@@ -1,5 +1,6 @@
 import os
 import random
+from PyQt6.QtWidgets import QWidget
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
